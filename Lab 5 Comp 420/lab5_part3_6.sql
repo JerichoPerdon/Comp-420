@@ -1,0 +1,15 @@
+USE imdb;
+
+DELIMITER //
+CREATE TRIGGER round_rating
+BEFORE
+INSERT ON ratings
+FOR EACH ROW
+BEGIN
+	IF NEW.votes < 4985 THEN
+		SET NEW.votes = 4975;
+	ELSE
+		SET NEW.votes = 5000;
+	END IF;
+END //
+DELIMITER ;

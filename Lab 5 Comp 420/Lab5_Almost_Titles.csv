@@ -1,0 +1,13 @@
+title_id,type,primary_title,original_title,is_adult,premiered,ended,runtime_minutes,genres
+tt0034786,movie,"The Ghost of Frankenstein","The Ghost of Frankenstein",0,1942,null,67,"Drama,Horror,Sci-Fi"
+tt0060437,movie,"Funeral in Berlin","Funeral in Berlin",0,1966,null,102,Thriller
+tt0101531,movie,Cadence,Cadence,0,1990,null,97,Drama
+tt0102202,movie,"Kickboxer 2: The Road Back","Kickboxer 2: The Road Back",0,1991,null,89,"Action,Sport"
+tt0105197,movie,"The Story of Qiu Ju","Qiu Ju da guan si",0,1992,null,100,"Comedy,Drama"
+tt0106966,movie,"Strawberry and Chocolate","Fresa y chocolate",0,1993,null,108,"Comedy,Drama,Romance"
+tt0407998,movie,"The Mistress of Spices","The Mistress of Spices",0,2005,null,92,"Drama,Romance"
+tt0428059,movie,Toss-Up,"Yazi Tura",0,2004,null,102,Drama
+tt1087890,movie,"Terribly Happy","Frygtelig lykkelig",0,2008,null,99,"Crime,Drama,Thriller"
+tt1579232,movie,Freerunner,Freerunner,0,2011,null,87,Action
+tt1611211,movie,"Vincent Wants to Sea","Vincent will Meer",0,2010,null,96,Drama
+tt5952594,movie,"The Mustang","The Mustang",0,2019,null,96,Drama
